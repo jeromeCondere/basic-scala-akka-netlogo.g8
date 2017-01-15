@@ -4,5 +4,3 @@
 //eclipse plugin
 addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "5.0.1")
 
-//blablabla lala
-
