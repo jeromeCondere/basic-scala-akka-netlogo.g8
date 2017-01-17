@@ -1,5 +1,4 @@
-A [Giter8][g8] template for basic scala akka netlogo applications
-Netlogo version: 6.0.0 M4
+A [Giter8][g8] template for basic scala akka netlogo applications Netlogo (version 6.0.0 M4)
 The netlogo dependencies (version 6 M4) has been added manually
 this include :  
 asm_5.0.3  
