@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-object Main extends App {
-  println("Hello World!")
-}
-=======
 import org.nlogo.lite.InterfaceComponent
 object Main {
   def main(args: Array[String]) {
@@ -24,4 +19,3 @@ object Main {
     java.awt.EventQueue.invokeAndWait(
       new Runnable() { def run() { block } } ) }
 }
->>>>>>> 04fb82c6ee8b8f2b52ea5d21831b0ce1d7541b6d
